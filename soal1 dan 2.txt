@@ -1,0 +1,15 @@
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara 
+harfiah/istilah)
+
+Framework adalah sebuah alat bantu yang digunakan untuk membuat dan mengembangkan aplikasi atau sistem. Framework menyediakan struktur, aturan, dan alat yang diperlukan untuk mempercepat pengembangan perangkat lunak dengan menyediakan komponen-komponen dasar, pola desain, atau praktik terbaik yang dapat digunakan secara konsisten¹⁴.
+
+Framework bisa diibaratkan seperti sebuah rumah yang sudah memiliki pondasi, dinding, atap, dan pintu. Anda tidak perlu membangun rumah tersebut dari nol, tetapi hanya perlu menambahkan perabotan, cat, atau hiasan sesuai dengan keinginan Anda. Dengan begitu, Anda bisa menghemat waktu, tenaga, dan biaya dalam membuat rumah impian Anda.
+
+Framework juga bisa membantu Anda dalam membuat aplikasi yang lebih rapi, mudah dipelihara, dan aman. Anda bisa memilih framework yang sesuai dengan bahasa pemrograman, platform, dan tujuan aplikasi yang Anda inginkan. Misalnya, jika Anda ingin membuat aplikasi web berbasis PHP, Anda bisa menggunakan framework seperti Laravel, CodeIgniter, atau Symfony. Jika Anda ingin membuat aplikasi desktop berbasis Windows, Anda bisa menggunakan framework seperti WPF, UWP, atau Electron Js³.
+
+2.1. Membuat Jadwal Lab Otomatis
+2.2. Abiyyu Aji -> Membuat Program
+     Anton Haerul Hermawan -> Dokumentasi
+     Rizky Ferdi Nugraha -> Menangani Database
+2.3. Permasalahan utamanya masih ploating secara manual dan Kurang nya sarana
